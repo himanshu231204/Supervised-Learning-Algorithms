@@ -1,5 +1,9 @@
-# 📘 Supervised Learning Algorithms Guide  
+# 📘 Supervised Learning Algorithms  
 
+---
+A comprehensive repository that covers all major Supervised Machine Learning algorithms 📘 — explained in detail with theory, Python code, ASCII flowcharts, and practical implementation.
+
+To make it even more valuable, I implemented every model on the Titanic Dataset 🛳️ (Survival Prediction) — one of the most popular datasets in Data Science.
 ---
 
 ## 📑 Table of Contents  
